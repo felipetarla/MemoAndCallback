@@ -19,9 +19,9 @@ function App() {
     [numbers]
   );
 
-  const [names] = useState(["John", "Paul", "George", "Ringo"]);
+  const [names] = useState(["Felipe", "Leonardo", "George", "Lucas"]);
 
-  
+
   const [count1, setCount1] = useState(0);
   const [count2, setCount2] = useState(0);
 
